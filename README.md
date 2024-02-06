@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maticVernikFERI
+- 👋 Hi, I’m Matic Vernik
 - 👀 I’m interested in C, C++, Python, Web Devalopement
 - 🌱 I’m currently learning Android devalopement
 - 📫 How to reach me at matic.vernik1@student.um.si
